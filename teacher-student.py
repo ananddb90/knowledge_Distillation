@@ -1,7 +1,4 @@
 '''
-Teacher-Student model implementation by Cheng-Sheng Chan
-
-github : https://github.com/chengshengchan/model_compression
 '''
 
 import tensorflow as tf
